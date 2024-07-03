@@ -1,3 +1,2 @@
 # Hola
-## ¿Cómo estás?
-###### Markdown
+![Imagen de Yaktocat](https://octodex.github.com/images/yaktocat.png)
